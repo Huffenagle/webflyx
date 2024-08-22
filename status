@@ -1,0 +1,68 @@
+[33mcommit d6052ecb7a694a656c67fd1f65f44e96a84ff551[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_dune[m[33m)[m
+Author: Huffenagle <Huffenagle@Gmail.com>
+Date:   Wed Aug 21 17:55:26 2024 -0400
+
+    I: 'Fear is the mind-killer.'
+
+[33mcommit feeb7fa7453f13144633d19a4d2361f185e585fc[m
+Author: Huffenagle <Huffenagle@Gmail.com>
+Date:   Wed Aug 21 17:54:01 2024 -0400
+
+    H: 'The spice must flow.'
+
+[33mcommit 36285d70f01864e3ad4d84ea7cfe0b0529f8c3a8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Huffenagle <51145680+Huffenagle@users.noreply.github.com>
+Date:   Thu Aug 22 00:46:52 2024 -0400
+
+    Update classics.csv
+    
+    J: Update classics.csv
+
+[33mcommit dd11766b4a40095a31722bac5552cceddc22beba[m[33m ([m[1;32mupdate_titles[m[33m, [m[1;32mmain[m[33m)[m
+Author: Huffenagle <Huffenagle@Gmail.com>
+Date:   Wed Aug 21 17:36:41 2024 -0400
+
+    G: updated 'titles.md'
+
+[33mcommit c99b5c9fe8b88e9de1accd0d75100c19e5acd7f2[m
+Merge: 02ace68 9dc1fee
+Author: Huffenagle <Huffenagle@Gmail.com>
+Date:   Wed Aug 21 17:21:40 2024 -0400
+
+    F: merge branch 'add_classics'
+
+[33mcommit 02ace6833f1aeb2b146a2f6101c61097f56625cd[m
+Author: Huffenagle <Huffenagle@Gmail.com>
+Date:   Wed Aug 21 17:16:01 2024 -0400
+
+    E: modified contents.md in main
+
+[33mcommit 9dc1fee522e47cba9a00458dc51425388a3b87e8[m
+Author: Huffenagle <Huffenagle@Gmail.com>
+Date:   Wed Aug 21 17:01:31 2024 -0400
+
+    D: Added classics.csv
+
+[33mcommit 143262dfcdf0e4c16c562834f353a2d30939f6f0[m
+Author: Huffenagle <Huffenagle@Gmail.com>
+Date:   Tue Aug 20 19:06:11 2024 -0400
+
+    C: Changed case of quotes dir
+
+[33mcommit cdb02d8f16ace672bac25247d859eefa0bba2f14[m
+Author: Huffenagle <Huffenagle@Gmail.com>
+Date:   Tue Aug 20 18:57:07 2024 -0400
+
+    C: Added Quotes
+
+[33mcommit d19de7414f956c1efe978d1052845b9bdb3714ae[m
+Author: Huffenagle <Huffenagle@Gmail.com>
+Date:   Tue Aug 20 18:46:18 2024 -0400
+
+    B: Added Titles.md
+
+[33mcommit 1b5e3ec9e4d3cb8d2a1acdf4b0063b0466791404[m
+Author: Huffenagle <Huffenagle@Gmail.com>
+Date:   Tue Aug 20 18:08:21 2024 -0400
+
+    A: add contents.md
